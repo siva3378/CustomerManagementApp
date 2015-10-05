@@ -1,4 +1,4 @@
-Sample project to demo Unit testing an Angular app with Jasmine+Karma
+Customer Management app
 ==================================================
 
 This file explains how to set-up environment to start work with this project template. This project uses (Gulp, Bower, Jasmine, Karma). 
