@@ -44,7 +44,7 @@ Temporary Items
 
 # Directory for node modules
 node_modules
-libs
+#libs
 
 # Directory for generated reports
 reports
